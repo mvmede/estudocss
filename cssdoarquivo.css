@@ -8,22 +8,22 @@
 #Titulo2 {
     width: auto;
     height: auto;
-    color: #0766be;
+    color: hsl(209, 93%, 39%);
 
 }
 
 #texto {
 
     padding: 10px;
-    color: #724400;
-    background-color: #ccc;
-    
+    color: hwb(36 0% 55%);
+    background-color: rgb(204, 204, 204);
+
 }
 
 #texto2 {
 
     padding: 10px;
     color: #087292;
-    background-color: #ccc;
+    background-color: rgb(204, 204, 204);
 
 }
