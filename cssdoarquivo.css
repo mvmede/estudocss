@@ -1,20 +1,29 @@
 #Titulo {
-
-    color: blue;
+    width: auto;
+    height: auto;
+    color: #dd4e0b;
 
 }
 
 #Titulo2 {
-
-    color: rgb(190, 12, 182);
+    width: auto;
+    height: auto;
+    color: #0766be;
 
 }
 
+#texto {
 
+    padding: 10px;
+    color: #724400;
+    background-color: #ccc;
+    
+}
 
+#texto2 {
 
-a {
-
-    color: brown;
+    padding: 10px;
+    color: #087292;
+    background-color: #ccc;
 
 }
